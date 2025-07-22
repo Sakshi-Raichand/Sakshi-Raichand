@@ -5,11 +5,11 @@
 
 🚀 **About Me**
 
-- 🎯 I’m passionate about transforming raw data into meaningful insights and decisions.
-- 🔎 Currently exploring the intersection of **Business Analysis**, **Data Analytics**, **Business Intelligence**, and **AI Automation**.
-- 📌 Obsessed with visualizing data using **Power BI** and **Tableau**.
-- 💡 On a journey to automate what’s manual, analyze what’s hidden, and simplify what’s complex.
-- 🧠 Always learning — forever curious.
+- 🎯 I’m passionate about transforming raw data into meaningful insights and decisions
+- 🔎 Currently exploring the intersection of **Business Analysis**, **Data Analytics**, **Business Intelligence**, and **AI Automation**
+- 📌 Obsessed with visualizing data using **Power BI** and **Tableau**
+- 💡 On a journey to automate what’s manual, analyze what’s hidden, and simplify what’s complex
+- 🧠 Always learning - forever curious
 
 ---
 
@@ -34,12 +34,12 @@
 
 📈 **What I'm Currently Doing**
 
-- 🔭 Building dashboards and automations that solve real problems.
-- 🌱 Exploring AI + automation for business operations.
-- 🤝 Open to Business Analyst, collaborations, and startup projects.
-- 🎥 Creating conten.
+- 🔭 Building dashboards and automations that solve real problems
+- 🌱 Exploring AI + automation for business operations
+- 🤝 Open to Business Analyst, collaborations, and startup projects
+- 🎥 Creating conten
 
 ---
 
-✨ *"I believe data isn't just numbers — it's potential waiting to be translated into impact."*
+✨ *"I believe data isn't just numbers, it's potential waiting to be translated into impact"*
 
