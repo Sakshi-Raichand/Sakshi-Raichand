@@ -1,5 +1,4 @@
 <h1 align="center">Halo👋, I'm Sakshi Raichand</h1>
-<h3 align="center">Turning Data into Stories | Analyst in Progress | Automation Enthusiast</h3>
 
 ---
 
