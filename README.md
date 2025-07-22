@@ -9,7 +9,7 @@
 
 🚀 **About Me**
 
-- 🎯 I’m passionate about transforming raw data into meaningful insights and decisions
+- 🎯 I’m passionate about transforming raw data into decisions
 - 🔎 Currently exploring the intersection of **Business Analysis**, **Data Analytics**, **Business Intelligence**, and **AI Automation**
 - 📌 Obsessed with visualizing data using **Power BI** and **Tableau**
 - 💡 On a journey to automate what’s manual, analyze what’s hidden, and simplify what’s complex
